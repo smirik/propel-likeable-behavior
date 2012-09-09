@@ -1,0 +1,18 @@
+{
+    "name": "smirik/propel-likeable-behavior",
+    "description": "Add functionality to like objects.",
+    "keywords": [ "propel", "behavior", "likes" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny Smirnov",
+            "email": "es@4xxi.com"
+        }
+    ],
+    "require": {
+        "propel/propel1": "1.6.*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
